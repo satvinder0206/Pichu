@@ -19,12 +19,7 @@ To run this project, you will need to install the following dependencies (if app
     git clone https://github.com/your-username/your-repository.git
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository
-    ```
-
-3. Install the necessary packages (if any) using:
+2. Install the necessary packages (if any) using:
     ```bash
     pip install -r requirements.txt
     ```
