@@ -16,7 +16,7 @@ To run this project, you will need to install the following dependencies (if app
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/satvinder0206/Pichu.git
     ```
 
 2. Install the necessary packages (if any) using:
