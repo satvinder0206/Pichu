@@ -23,7 +23,7 @@ To run this project, you will need to install the following dependencies (if app
     ```
 2. Create Virtual Environment in python using .venv
 
-2. Install the necessary packages (if any) using:
+2. Install the necessary packages using:
     ```bash
     pip install -r requirements.txt
     ```
