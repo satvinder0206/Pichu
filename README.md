@@ -11,13 +11,16 @@ This project integrates image generation using a diffusion model and Discord bot
 To run this project, you will need to install the following dependencies (if applicable):
 
 - Python 3.x
-- Any required libraries (if you are using external libraries such as `numpy`, `pandas`, or others)
+- diffusers
+- torch
+- discord
 
 ### Installation
 1. Clone the repository:
     ```bash
     git clone https://github.com/satvinder0206/Pichu.git
     ```
+2. Create Virtual Environment in python using .venv
 
 2. Install the necessary packages (if any) using:
     ```bash
