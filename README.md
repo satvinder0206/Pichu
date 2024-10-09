@@ -1,4 +1,4 @@
-# Python Project
+# Ai image and ARK asa Discord Bot
 
 ### Description
 This project integrates image generation using a diffusion model and Discord bot functionalities. The main.py script handles image generation using a pretrained model from OnomaAIResearch, capable of generating images from text prompts. The pichu.py script adds Discord bot features, allowing interactions like messaging, banning users, and assigning points in a Discord server. The bot also offers additional features like fetching rates, showing tips, and providing Twitch links. The project showcases a combination of AI-powered image generation and community management through a Discord bot.
