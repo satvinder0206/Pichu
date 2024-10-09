@@ -6,6 +6,7 @@ This project integrates image generation using a diffusion model and Discord bot
 ### Files
 - `main.py`:
 - `pichu.py`:
+- `functions1.py`:
 
 ### Requirements
 To run this project, you will need to install the following dependencies (if applicable):
